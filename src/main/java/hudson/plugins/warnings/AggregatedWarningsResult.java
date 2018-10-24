@@ -13,8 +13,8 @@ import hudson.plugins.warnings.parser.Warning;
  * Represents the aggregated results of all warnings parsers. One instance of this class is persisted for each build via
  * an XML file.
  *
- * @author Marvin Schütz
- * @author Sebastian Hansbauer
+ *
+ *
  */
 public class AggregatedWarningsResult extends BuildResult {
     private static final long serialVersionUID = 4572019928324067680L;

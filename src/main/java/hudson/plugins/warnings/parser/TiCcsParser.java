@@ -11,7 +11,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Texas Instruments Code Composer Studio compiler warnings.
  *
- * @author Jan Linnenkohl
+ *
  */
 @Extension
 public class TiCcsParser extends RegexpLineParser {

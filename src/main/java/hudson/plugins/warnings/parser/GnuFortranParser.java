@@ -11,7 +11,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for (compile-time) messages from the GNU Fortran Compiler.
  *
- * @author Mat Cross.
+ *
  */
 @Extension
 public class GnuFortranParser extends RegexpDocumentParser {

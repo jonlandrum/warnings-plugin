@@ -14,7 +14,7 @@ import org.apache.commons.lang.StringUtils;
  * Provides a token that evaluates detailed informations to the plug-in
  * build result.
  *
- * @author Benedikt Spranger
+ *
  */
 public abstract class AbstractDetailedTokenMacro extends AbstractTokenMacro {
 

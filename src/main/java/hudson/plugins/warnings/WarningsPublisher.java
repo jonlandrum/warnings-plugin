@@ -46,7 +46,7 @@ import hudson.plugins.warnings.parser.WarningsFilter;
 /**
  * Publishes the results of the warnings analysis (freestyle project type).
  *
- * @author Ulli Hafner
+ *
  */
 // CHECKSTYLE:COUPLING-OFF
 public class WarningsPublisher extends HealthAwarePublisher implements SimpleBuildStep {

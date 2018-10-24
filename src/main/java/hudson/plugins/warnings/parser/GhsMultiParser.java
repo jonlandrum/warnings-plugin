@@ -11,7 +11,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the GHS Multi compiler warnings.
  *
- * @author Joseph Boulos
+ *
  */
 @Extension
 public class GhsMultiParser extends RegexpDocumentParser {

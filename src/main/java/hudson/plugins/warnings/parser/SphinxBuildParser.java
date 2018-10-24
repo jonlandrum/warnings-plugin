@@ -10,7 +10,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Sphinx build warnings.
  *
- * @author Robert Williams
+ *
  */
 @Extension
 public class SphinxBuildParser extends RegexpLineParser {

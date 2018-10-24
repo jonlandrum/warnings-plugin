@@ -10,7 +10,7 @@ import hudson.Extension;
  * @see MSDN: "/analyze (Code Analysis)"
  * http://msdn.microsoft.com/en-us/library/ms173498.aspx
  *
- * @author Charles Chan
+ *
  */
 @Extension
 public class PREfastParser extends RegexpLineParser {

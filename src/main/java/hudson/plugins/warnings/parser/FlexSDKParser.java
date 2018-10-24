@@ -7,7 +7,7 @@ import hudson.Extension;
 /**
  * A parser for Flex SDK compiler warnings.
  *
- * @author Vivien Tintillier
+ *
  */
 @Extension
 public class FlexSDKParser extends RegexpLineParser {

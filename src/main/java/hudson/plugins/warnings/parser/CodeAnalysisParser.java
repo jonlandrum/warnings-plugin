@@ -12,7 +12,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the CodeAnalysis compiler warnings.
  *
- * @author Rafal Jasica
+ *
  */
 @Extension
 public class CodeAnalysisParser extends RegexpLineParser {

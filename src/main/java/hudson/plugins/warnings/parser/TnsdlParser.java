@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the tnsdl translator warnings.
  *
- * @author Shaohua Wen
+ *
  */
 @Extension
 public class TnsdlParser extends RegexpLineParser {

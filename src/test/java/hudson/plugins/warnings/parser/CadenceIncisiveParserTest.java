@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link CadenceIncisiveParser}.
  *
- * @author Andrew 'Necromant' Andrianov
+ *
  */
 public class CadenceIncisiveParserTest extends ParserTester {
     private static final String WARNING_TYPE = new CadenceIncisiveParser().getGroup();

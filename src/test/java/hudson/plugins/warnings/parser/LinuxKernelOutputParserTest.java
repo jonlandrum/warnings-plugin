@@ -12,7 +12,7 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Tests the class {@link LinuxKernelOutputParser}.
- * @author Benedikt Spranger
+ *
  *
  */
 public class LinuxKernelOutputParserTest extends ParserTester {

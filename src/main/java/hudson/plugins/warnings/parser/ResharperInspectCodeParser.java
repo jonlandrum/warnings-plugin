@@ -27,7 +27,7 @@ import hudson.plugins.warnings.WarningsDescriptor;
 /**
  * A parser for the Resharper InspectCode compiler warnings.
  *
- * @author Rafal Jasica
+ *
  */
 @Extension
 public class ResharperInspectCodeParser extends RegexpLineParser {

@@ -9,7 +9,7 @@ import java.util.List;
  * Stores field to create a warning.
  * It represents the File-Tags within the report.xml.
  * The Java-Bean-Conformity was chosen due to the digesters style of assigning.
- * @author Johann Vierthaler, johann.vierthaler@web.de
+ *
  */
 public class File {
     private String name;

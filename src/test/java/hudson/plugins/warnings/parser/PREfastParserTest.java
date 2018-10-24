@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link PREfastParser}.
  *
- * @author Charles Chan
+ *
  */
 public class PREfastParserTest extends ParserTester {
     private static final String TYPE = new PREfastParser().getGroup();

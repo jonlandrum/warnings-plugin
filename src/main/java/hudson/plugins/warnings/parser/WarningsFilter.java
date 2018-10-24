@@ -15,7 +15,7 @@ import hudson.plugins.analysis.util.model.FileAnnotation;
 /**
  * Filters warnings by exclude and include patterns.
  *
- * @author Ullrich Hafner
+ *
  */
 public class WarningsFilter {
     private final Set<Pattern> includePatterns = Sets.newHashSet();

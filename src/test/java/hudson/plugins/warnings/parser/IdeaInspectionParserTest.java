@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests {@link IdeaInspectionParser } parser class.
  *
- * @author Alex Lopashev, alexlopashev@gmail.com
+ *
  */
 public class IdeaInspectionParserTest extends ParserTester {
     /**

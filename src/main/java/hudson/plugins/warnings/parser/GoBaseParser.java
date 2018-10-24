@@ -6,7 +6,7 @@ import org.jvnet.localizer.Localizable;
 /**
  * Base class for go vet / golint parsers
  *
- * @author Ryan Cox
+ *
  */
 abstract class GoBaseParser extends RegexpLineParser {
 

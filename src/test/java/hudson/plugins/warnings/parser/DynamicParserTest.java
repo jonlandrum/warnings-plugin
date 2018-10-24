@@ -20,7 +20,7 @@ import hudson.plugins.analysis.util.model.FileAnnotation;
 /**
  * Test the class {@link DynamicParser}.
  *
- * @author Ulli Hafner
+ *
  */
 public class DynamicParserTest extends PhpParserTest {
     @Rule

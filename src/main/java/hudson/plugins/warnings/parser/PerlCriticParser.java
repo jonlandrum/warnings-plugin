@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Perl::Critic warnings.
  *
- * @author Mihail Menev, menev@hm.edu
+ *
  */
 @Extension
 public class PerlCriticParser extends RegexpLineParser {

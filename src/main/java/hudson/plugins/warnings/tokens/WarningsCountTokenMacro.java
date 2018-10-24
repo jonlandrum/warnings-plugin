@@ -7,7 +7,7 @@ import hudson.plugins.warnings.AggregatedWarningsResultAction;
 /**
  * Provides a token that evaluates to the number of compiler warnings.
  *
- * @author Ulli Hafner
+ *
  */
 @Extension(optional = true)
 public class WarningsCountTokenMacro extends AbstractAnnotationsCountTokenMacro {

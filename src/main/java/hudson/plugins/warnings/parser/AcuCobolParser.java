@@ -7,7 +7,7 @@ import hudson.Extension;
 /**
  * A parser for the Acu Cobol compile.
  *
- * @author jerryshea
+ *
  */
 @Extension
 public class AcuCobolParser extends RegexpLineParser {

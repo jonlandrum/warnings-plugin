@@ -11,7 +11,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for RTTests Error Messages.
  *
- * @author Benedikt Spranger
+ *
  */
 @Extension
 public class RTTestsParser extends RegexpLineParser {

@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Coolflux DSP Compiler warnings.
  *
- * @author Vangelis Livadiotis
+ *
  */
 @Extension
 public class CoolfluxChessccParser extends RegexpLineParser {

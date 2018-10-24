@@ -12,7 +12,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for Eclipse compiler warnings.
  *
- * @author Ulli Hafner
+ *
  */
 @Extension
 public class EclipseParser extends RegexpDocumentParser {

@@ -10,7 +10,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for IBM xlC compiler warnings.
  *
- * @author Andrew Gvozdev
+ *
  */
 @Extension
 public class XlcLinkerParser extends RegexpLineParser {

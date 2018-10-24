@@ -9,7 +9,7 @@ import hudson.plugins.warnings.WarningsDescriptor;
 /**
  * A parser for the go vet tool in the Go toolchain
  *
- * @author Ryan Cox
+ *
  */
 @Extension
 public class GoVetParser extends GoBaseParser {

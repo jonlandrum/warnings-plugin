@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link YuiCompressorParser}.
  *
- * @author Emidio Stani
+ *
  */
 public class YuiCompressorParserTest extends ParserTester {
     private static final String TYPE = new YuiCompressorParser().getGroup();

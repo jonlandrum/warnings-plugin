@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Gnat compiler warnings.
  *
- * @author Bernhard Berger
+ *
  */
 @Extension
 public class GnatParser extends RegexpLineParser {

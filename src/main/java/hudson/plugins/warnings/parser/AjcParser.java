@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * A parser for AspectJ (ajc) compiler warnings.
  *
- * @author Tom Diamond
+ *
  */
 @Extension
 public class AjcParser extends AbstractWarningsParser {

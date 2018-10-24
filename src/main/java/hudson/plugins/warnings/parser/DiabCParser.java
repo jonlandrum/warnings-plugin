@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Diab C++ compiler warnings.
  *
- * @author Yuta Namiki
+ *
  */
 @Extension
 public class DiabCParser extends RegexpLineParser {

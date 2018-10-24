@@ -13,7 +13,7 @@ import hudson.plugins.warnings.parser.JavacParser;
 /**
  * Tests the class  {@link ConsoleParser}.
  *
- * @author Ulli Hafner
+ *
  */
 public class ConsoleParserTest {
     @Rule

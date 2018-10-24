@@ -20,13 +20,13 @@ import hudson.plugins.warnings.parser.jcreport.Report;
 /**
  * Tests the JcReportParser-Class.
  *
- * @author Johann Vierthaler, johann.vierthaler@web.de
+ *
  */
 public class JcReportParserTest {
     /**
      * Parses Report with 5 Warnings.
      *
-     * @author Johann Vierthaler, johann.vierthaler@web.de
+     *
      * @throws ParsingCanceledException
      *             -> thrown by jcrp.parse();
      * @throws IOException
@@ -53,7 +53,7 @@ public class JcReportParserTest {
     /**
      * Gets Collection with size of 5.
      *
-     * @author Johann Vierthaler, johann.vierthaler@web.de
+     *
      * @throws ParsingCanceledException
      *             -> thrown by jcrp.parse();
      * @throws IOException
@@ -76,7 +76,7 @@ public class JcReportParserTest {
      * contain more information in the Warning-Objects. For reasons of simplicity only a Report with 1 file and 1 item
      * was created.
      *
-     * @author Johann Vierthaler, johann.vierthaler@web.de
+     *
      * @throws IOException
      *             -> createReport can cause an IOException.
      */
@@ -109,7 +109,7 @@ public class JcReportParserTest {
      * Test the SAXException when file is corrupted. When a SAXException is triggered a new IOException is thrown. This
      * explains the expected = IOException.class.
      *
-     * @author Johann Vierthaler, johann.vierthaler@web.de
+     *
      * @throws ParsingCanceledException
      *             -> thrown by jcrp.parse();
      * @throws IOException

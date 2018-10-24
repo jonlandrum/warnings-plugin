@@ -10,7 +10,7 @@ import hudson.plugins.warnings.util.XmlElementUtil;
 /**
  * Internal set containing rules for FxCop.
  *
- * @author Erik Ramfelt
+ *
  */
 @SuppressWarnings({"PMD", "all"})
 //CHECKSTYLE:OFF

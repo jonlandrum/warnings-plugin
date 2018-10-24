@@ -15,7 +15,7 @@ import java.util.List;
  *
  * A parser for Cadence Incisive Enterprise Simulator
  *
- * @author Andrew 'Necromant' Andrianov
+ *
  */
 @Extension
 public class CadenceIncisiveParser extends RegexpLineParser {

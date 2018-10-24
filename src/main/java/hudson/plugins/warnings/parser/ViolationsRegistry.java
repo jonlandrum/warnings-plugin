@@ -7,7 +7,7 @@ import hudson.plugins.violations.types.codenarc.CodenarcParser;
 /**
  * Registers the parsers of the violations plug-in.
  *
- * @author Ulli Hafner
+ *
  */
 public final class ViolationsRegistry {
     /**

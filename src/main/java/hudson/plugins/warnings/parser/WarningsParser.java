@@ -20,7 +20,7 @@ import hudson.plugins.analysis.util.model.FileAnnotation;
  * @see GccParser example
  * @see JavacParser example
  *
- * @author Ulli Hafner
+ *
  * @deprecated use the base class {@link AbstractWarningsParser} when implementing new parsers
  */
 @Deprecated

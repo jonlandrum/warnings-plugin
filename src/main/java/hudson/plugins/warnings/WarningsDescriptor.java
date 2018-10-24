@@ -29,7 +29,7 @@ import org.kohsuke.stapler.DataBoundSetter;
  * Descriptor for the class {@link WarningsPublisher}. Used as a singleton. The
  * class is marked as public so that it can be accessed from views.
  *
- * @author Ulli Hafner
+ *
  */
 @Extension(ordinal = 100) @Symbol("warnings")
 public final class WarningsDescriptor extends PluginDescriptor implements StaplerProxy {

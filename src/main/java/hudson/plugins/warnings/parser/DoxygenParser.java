@@ -11,8 +11,8 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Doxygen warnings.
  *
- * @author Frederic Chateau
- * @author Bruno Matos
+ *
+ *
  */
 @Extension
 public class DoxygenParser extends RegexpDocumentParser {

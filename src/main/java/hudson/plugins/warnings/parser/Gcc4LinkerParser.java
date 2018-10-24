@@ -11,7 +11,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for gcc 4.x linker warnings.
  *
- * @author Frederic Chateau
+ *
  */
 @Extension
 public class Gcc4LinkerParser extends RegexpLineParser {

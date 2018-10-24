@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 /**
  * A parser for the Dr. Memory Errors.
  *
- * @author Wade Penson
+ *
  */
 @Extension
 public class DrMemoryParser extends RegexpDocumentParser {

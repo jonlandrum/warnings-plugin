@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for PHP runtime errors and warnings.
  *
- * @author Shimi Kiviti
+ *
  */
 @Extension
 public class PhpParser extends RegexpLineParser {

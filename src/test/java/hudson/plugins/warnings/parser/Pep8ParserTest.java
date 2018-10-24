@@ -15,7 +15,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link Pep8Parser}.
  *
- * @author Marvin Schütz
+ *
  */
 public class Pep8ParserTest extends ParserTester {
     private static final String WARNING_TYPE = "Pep8";

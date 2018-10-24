@@ -12,7 +12,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for puppet-lint checks warnings.
  *
- * @author Jan Vansteenkiste <jan@vstone.eu>
+ *
  */
 @Extension
 public class PuppetLintParser extends RegexpLineParser {

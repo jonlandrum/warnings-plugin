@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for Robocopy.
  *
- * @author Adrian Deccico
+ *
  *
  * captured samples:
  *    *EXTRA File                  0        b           Unknown Task

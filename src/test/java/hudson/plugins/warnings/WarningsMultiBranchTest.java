@@ -25,7 +25,7 @@ import static org.junit.Assert.*;
 /**
  * Tests the class {@link WarningsPublisher}.
  *
- * @author Ulli Hafner
+ *
  */
 public class WarningsMultiBranchTest {
     private static final String SUFFIX_NAME = " Warnings";

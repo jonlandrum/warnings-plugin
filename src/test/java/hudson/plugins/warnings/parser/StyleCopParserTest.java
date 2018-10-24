@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link StyleCopParser}.
  *
- * @author Sebastian Seidl
+ *
  */
 public class StyleCopParserTest extends ParserTester {
     /**

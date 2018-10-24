@@ -5,7 +5,7 @@ package hudson.plugins.warnings.parser.jcreport;
  * The Java-Bean-Conformity was chosen due to the digesters style of assigning.
  * It represents the Item-Tags within the report.xml.
  * Items have properties, that are mandatory to create a warning.
- * @author Johann Vierthaler, johann.vierthaler@web.de
+ *
  */
 public class Item {
 

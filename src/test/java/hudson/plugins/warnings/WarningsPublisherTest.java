@@ -22,7 +22,7 @@ import hudson.model.Action;
 /**
  * Tests the class {@link WarningsPublisher}.
  *
- * @author Ulli Hafner
+ *
  */
 public class WarningsPublisherTest {
     private static final String SUFFIX_NAME = " Warnings";

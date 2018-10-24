@@ -10,7 +10,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for Metrowerks Codewarrior 4.x compiler warnings.
  *
- * @author Sven Lübke
+ *
  */
 @Extension
 public class MetrowerksCWCompilerParser extends RegexpLineParser {

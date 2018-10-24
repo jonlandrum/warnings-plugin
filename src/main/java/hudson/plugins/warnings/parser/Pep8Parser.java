@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Pep8 compiler warnings.
  *
- * @author Marvin Schütz
+ *
  */
 @Extension
 public class Pep8Parser extends RegexpLineParser {

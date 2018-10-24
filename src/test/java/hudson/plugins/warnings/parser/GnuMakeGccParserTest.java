@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link GnuMakeGccParser}.
  *
- * @author vichak
+ *
  */
 public class GnuMakeGccParserTest extends ParserTester {
     private static final String WARNING_CATEGORY = "Warning";

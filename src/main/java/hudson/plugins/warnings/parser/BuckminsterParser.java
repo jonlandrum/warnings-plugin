@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for Buckminster compiler warnings.
  *
- * @author Johannes Utzig
+ *
  */
 @Extension
 public class BuckminsterParser extends RegexpLineParser {

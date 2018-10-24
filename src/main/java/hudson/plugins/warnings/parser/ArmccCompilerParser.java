@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for armcc compiler warnings.
  *
- * @author Emanuele Zattin
+ *
  */
 @Extension
 public class ArmccCompilerParser extends RegexpLineParser {

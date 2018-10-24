@@ -33,7 +33,7 @@ import hudson.plugins.warnings.parser.ParsingCanceledException;
 /**
  * Parses Gendarme violations.
  *
- * @author mathias.kluba@gmail.com
+ *
  */
 @Extension
 public class GendarmeParser extends AbstractWarningsParser {

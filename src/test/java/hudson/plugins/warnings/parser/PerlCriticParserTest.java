@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the Perl::Critic Parser.
  *
- * @author Mihail Menev, menev@hm.edu
+ *
  */
 public class PerlCriticParserTest extends ParserTester {
     /**

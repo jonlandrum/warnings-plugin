@@ -20,7 +20,7 @@ import hudson.plugins.analysis.util.model.WorkspaceFile;
 /**
  * Tests the class {@link JSLintParser}.
  *
- * @author Gavin Mogan <gavin@kodekoan.com>
+ *
  */
 public class JSLintParserTest extends ParserTester {
     private static final String EXPECTED_FILE_NAME = "duckworth/hudson-jslint-freestyle/src/prototype.js";

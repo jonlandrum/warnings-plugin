@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the erlc compiler warnings.
  *
- * @author Stefan Brausch
+ *
  */
 @Extension
 public class ErlcParser extends RegexpLineParser {

@@ -15,7 +15,7 @@ import hudson.plugins.analysis.util.model.AnnotationProvider;
 /**
  * Tests the class {@link WarningsHealthDescriptor}.
  *
- * @author Ulli Hafner
+ *
  */
 public class WarningsHealthDescriptorTest extends AbstractHealthDescriptorTest {
     private static final Localizable NAME = Messages._Warnings_Publisher_Name();

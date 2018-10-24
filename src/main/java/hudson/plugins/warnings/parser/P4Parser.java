@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for Perforce execution.
  *
- * @author Adrian Deccico
+ *
  */
 @Extension
 public class P4Parser extends RegexpLineParser {

@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the Clang compiler warnings.
  *
- * @author Neil Davis
+ *
  */
 @Extension
 public class ClangParser extends RegexpLineParser {

@@ -9,7 +9,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the clang-tidy static analysis warnings.
  *
- * @author Ryan Schaefer
+ *
  */
 @Extension
 public class ClangTidyParser extends RegexpLineParser {

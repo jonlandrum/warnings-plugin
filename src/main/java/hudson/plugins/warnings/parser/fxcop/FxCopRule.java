@@ -3,7 +3,7 @@ package hudson.plugins.warnings.parser.fxcop;
 /**
  * Internal model for a FxCop rule.
  *
- * @author Erik Ramfelt
+ *
  */
 @SuppressWarnings({"PMD", "all"})
 //CHECKSTYLE:OFF

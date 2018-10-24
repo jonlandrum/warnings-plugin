@@ -9,7 +9,7 @@ import hudson.Extension;
 /**
  * A parser for the PyLint compiler warnings.
  *
- * @author Sebastian Hansbauer
+ *
  */
 @Extension
 public class PyLintParser extends RegexpLineParser {

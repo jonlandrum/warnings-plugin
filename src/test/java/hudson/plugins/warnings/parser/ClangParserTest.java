@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link ClangParser}.
  *
- * @author Neil Davis
+ *
  */
 public class ClangParserTest extends ParserTester {
     private static final String TYPE = new ClangParser().getGroup();

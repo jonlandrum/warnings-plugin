@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link PhpParser}.
  *
- * @author Shimi Kiviti
+ *
  */
 public class PhpParserTest extends ParserTester {
     private static final String TYPE = new PhpParser().getGroup();

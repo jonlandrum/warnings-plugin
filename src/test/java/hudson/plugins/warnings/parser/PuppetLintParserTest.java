@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link PuppetLintParser}.
  *
- * @author Jan Vansteenkiste <jan@vstone.eu>
+ *
  */
 public class PuppetLintParserTest extends ParserTester {
     private static final String TYPE = new PuppetLintParser().getGroup();

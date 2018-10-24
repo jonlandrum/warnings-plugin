@@ -9,7 +9,7 @@ import hudson.plugins.warnings.WarningsDescriptor;
 /**
  * A parser for the golint tool in the Go toolchain
  *
- * @author Ryan Cox
+ *
  */
 @Extension
 public class GoLintParser extends GoBaseParser {

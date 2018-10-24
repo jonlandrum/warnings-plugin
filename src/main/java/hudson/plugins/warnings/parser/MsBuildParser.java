@@ -12,7 +12,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the MSBuild/PcLint compiler warnings.
  *
- * @author Ulli Hafner
+ *
  */
 @Extension
 public class MsBuildParser extends RegexpLineParser {

@@ -20,7 +20,7 @@ import hudson.plugins.violations.types.stylecop.StyleCopParser;
 /**
  * Tests the class {@link ViolationsAdapter}.
  *
- * @author Ulli Hafner
+ *
  */
 public class ViolationsAdapterTest extends ParserTester {
     /**

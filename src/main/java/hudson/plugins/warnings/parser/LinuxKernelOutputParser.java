@@ -19,7 +19,7 @@ import org.apache.commons.lang.StringUtils;
 /**
  * A Parser for Linux Kernel Output detecting WARN() and BUGS().
  *
- * @author Benedikt Spranger
+ *
  */
 @Extension
 public class LinuxKernelOutputParser extends RegexpParser {

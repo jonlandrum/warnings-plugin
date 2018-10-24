@@ -39,7 +39,7 @@ import hudson.util.ListBoxModel;
 /**
  * Registry of parsers that are available for the warnings plug-in.
  *
- * @author Ulli Hafner
+ *
  */
 // CHECKSTYLE:COUPLING-OFF
 public class ParserRegistry {
@@ -339,7 +339,7 @@ public class ParserRegistry {
     /**
      * Null object pattern.
      *
-     * @author Ulli Hafner
+     *
      */
     private static final class NullWarnigsParser extends AbstractWarningsParser {
         NullWarnigsParser(final String group) {

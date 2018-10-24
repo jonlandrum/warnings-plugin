@@ -10,7 +10,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for the gcc compiler warnings.
  *
- * @author Greg Roth
+ *
  */
 @Extension
 public class GccParser extends RegexpLineParser {

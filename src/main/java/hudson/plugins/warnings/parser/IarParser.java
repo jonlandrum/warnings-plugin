@@ -13,9 +13,9 @@ import hudson.plugins.analysis.util.model.Priority;
  * '----no_wrap_diagnostics'. Then the IAR compilers will create single-line
  * warnings.
  *
- * @author Claus Klein
- * @author Ulli Hafner
- * @author Kay van der Zander
+ *
+ *
+ *
  */
 @Extension
 public class IarParser extends RegexpLineParser {

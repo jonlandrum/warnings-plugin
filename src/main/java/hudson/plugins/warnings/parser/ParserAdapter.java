@@ -10,7 +10,7 @@ import hudson.plugins.analysis.util.model.FileAnnotation;
  * Decorator of <code>WarningsParser</code> instances. Makes instances of the old
  * extension point look like instances of the new extension point.
  *
- * @author Ulli Hafner
+ *
  */
 public class ParserAdapter extends AbstractWarningsParser {
     private static final long serialVersionUID = 1591875174941046868L;

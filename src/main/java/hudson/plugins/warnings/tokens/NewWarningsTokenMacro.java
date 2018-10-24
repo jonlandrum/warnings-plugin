@@ -7,7 +7,7 @@ import hudson.plugins.warnings.AggregatedWarningsResultAction;
 /**
  * Provides a token that evaluates to the number of new warnings.
  *
- * @author Ulli Hafner
+ *
  */
 @Extension(optional = true)
 public class NewWarningsTokenMacro extends AbstractNewAnnotationsTokenMacro {

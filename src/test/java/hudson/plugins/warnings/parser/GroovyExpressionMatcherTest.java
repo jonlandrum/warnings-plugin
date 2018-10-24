@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * Tests the class {@link GroovyExpressionMatcher}.
  *
- * @author Ullrich Hafner
+ *
  */
 public class GroovyExpressionMatcherTest {
     private static final String LEGAL_PARSER_SCRIPT = "import hudson.plugins.warnings.parser.Warning";

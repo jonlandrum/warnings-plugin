@@ -8,7 +8,7 @@ import java.util.List;
  * This is the Report-Class.
  * It is mandatory to create Warnings.
  * It represents the outer-most node within the report.xml.
- * @author Johann Vierthaler, johann.vierthaler@web.de
+ *
  */
 public class Report {
     private List<File> files = new ArrayList<File>();

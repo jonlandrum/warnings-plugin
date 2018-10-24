@@ -12,7 +12,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * A parser for messages from the Intel C and Fortran compilers.
  *
- * @author Vangelis Livadiotis
+ *
  */
 @Extension
 public class IntelParser extends RegexpLineParser {

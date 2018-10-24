@@ -14,7 +14,7 @@ import hudson.plugins.analysis.util.model.Priority;
 /**
  * Tests the class {@link WarningsFilter}.
  *
- * @author StKlug
+ *
  */
 public class WarningsFilterTest {
     /**

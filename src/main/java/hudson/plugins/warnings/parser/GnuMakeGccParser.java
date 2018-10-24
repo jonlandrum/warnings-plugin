@@ -10,7 +10,7 @@ import hudson.plugins.analysis.util.model.Priority;
  * A parser for the GNU Make and Gcc4 compiler warnings. Read GNU Make output to
  * know where compilation are run.
  *
- * @author vichak
+ *
  */
 @Extension
 public class GnuMakeGccParser extends RegexpLineParser {

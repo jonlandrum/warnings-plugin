@@ -26,7 +26,7 @@ import hudson.plugins.violations.model.Violation;
 /**
  * Adapter for warnings parsers of the violations plug-in.
  *
- * @author Ulli Hafner
+ *
  */
 public class ViolationsAdapter extends AbstractWarningsParser {
     private static final long serialVersionUID = -4655802222866500913L;

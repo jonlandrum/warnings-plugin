@@ -8,7 +8,7 @@ import hudson.plugins.warnings.AggregatedWarningsResultAction;
 /**
  * Provides a token that contain details of new warnings.
  *
- * @author Benedikt Spranger
+ *
  */
 @Extension(optional = true)
 public class DetailedNewWarningsTokenMacro extends AbstractDetailedTokenMacro {

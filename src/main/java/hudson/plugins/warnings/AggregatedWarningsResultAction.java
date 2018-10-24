@@ -12,8 +12,8 @@ import hudson.plugins.analysis.core.PluginDescriptor;
  * Aggregated warnings results. This action shows the results of all active parsers. Currently, the aggregated results
  * are not shown in the UI.
  *
- * @author Marvin Schütz
- * @author Sebastian Hansbauer
+ *
+ *
  */
 public class AggregatedWarningsResultAction extends AbstractResultAction<AggregatedWarningsResult> {
     private static final NullHealthDescriptor NULL_HEALTH_DESCRIPTOR = new NullHealthDescriptor();

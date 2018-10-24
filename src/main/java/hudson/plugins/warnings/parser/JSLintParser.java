@@ -5,7 +5,7 @@ import hudson.Extension;
 /**
  * A parser for JSLint checks warnings.
  *
- * @author Gavin Mogan <gavin@kodekoan.com>
+ *
  */
 @Extension
 public class JSLintParser extends LintParser {
